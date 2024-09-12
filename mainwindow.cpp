@@ -904,5 +904,12 @@ void MainWindow::on_pushButton_envoyer_clicked()
                             QObject::tr("something is empty.\n"
                             "click Cancel to exit."),QMessageBox::Cancel);
                     }
+
+
+
 }
+
+
+
+
 
