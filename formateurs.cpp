@@ -19,6 +19,10 @@ FORMATEURS::FORMATEURS(int id_formateur,QString nom,QString prenom,QString email
 
 
 
+
+
+
+
 void setnom(QString);
 void setprenom(QString );
 void setemail(QString);
