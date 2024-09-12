@@ -844,6 +844,8 @@ void MainWindow::on_pushButtonModifier_success_clicked()
 void MainWindow::on_pushButtonSupprimer_success_clicked()
 {
 
+
+
     NotificationParams params;
     params.title = "formateur a été supprimée avec succées";
     params.message = Operation::DoSomething(Result::RESULT_SUCCESS);
@@ -891,6 +893,8 @@ void MainWindow::on_pushButton_envoyer_clicked()
                                       QObject::tr("Email Envoyé avec succees.\n"
                                       "click Cancel to exit"),QMessageBox::Cancel);
                                   }
+
+
                                   else
                                   {
                                       QMessageBox::critical(nullptr, QObject::tr("EMAIL"),
