@@ -1,0 +1,14 @@
+mer. sept. 4 16:08:55 2024 Offre d emploi a été ajoutée avec l'ID  0
+mer. sept. 4 16:09:59 2024 - Offre d emploi a été supprimé avec l'ID 44
+mer. sept. 4 16:10:17 2024 - Offre d emploi a été supprimé avec l'ID 0
+mer. sept. 4 22:31:04 2024 Offre d emploi a été ajoutée avec l'ID  4
+mer. sept. 4 22:31:41 2024 - Offre d emploi a été supprimé avec l'ID 4
+mer. sept. 4 22:32:21 2024 Offre d emploi a été ajoutée avec l'ID  10
+mer. sept. 4 22:32:38 2024 Offre d emploi a été ajoutée avec l'ID  441
+mer. sept. 4 22:34:03 2024 Offre d emploi a été ajoutée avec l'ID  5587
+mer. sept. 4 22:48:10 2024 -Offre d emploi a été modifier avec l'ID 5587
+sam. sept. 7 15:46:03 2024 CANDIDAT a été ajoutée avec l'ID  1
+sam. sept. 7 15:50:23 2024 CANDIDAT a été ajoutée avec l'ID  33
+sam. sept. 7 15:50:41 2024 CANDIDAT a été ajoutée avec l'ID  3
+sam. sept. 7 15:50:48 2024 CANDIDAT a été ajoutée avec l'ID  5
+sam. sept. 7 15:50:58 2024 CANDIDAT a été ajoutée avec l'ID  37
